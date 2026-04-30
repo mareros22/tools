@@ -1,5 +1,5 @@
 This is a resource for tools that may be useful during your CSE coursework.
 ## Tools
-- [GDB](https://github.com/mareros22/tools/blob/main/gdb.md)
-- [Git](https://github.com/mareros22/tools/blob/main/git.md)
-- [ModelSim](https://github.com/mareros22/tools/blob/main/modelsim.md)
+- [GDB](mareros22.github.io/tools/gdb.md)
+- [Git](mareros22.github.io/tools/git.md)
+- [ModelSim](mareros22.github.io/tools/ModelSim.md)
