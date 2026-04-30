@@ -1,3 +1,15 @@
+# What??
+If you are not familiar with Git and you feel like everyone around you already knows what they are doing, that is totally normal. 
+
+## What is a Repository?
+A repository is a set of files and their history. The repository is hosted on a server, and you can make changes to the files (or add or remove files) locally by making a copy (or clone) of the repository on your local machine. Typically we make a new repository for each course or project.
+
+## What is a Commit?
+A commit is like a checkpoint. When you make a commit, you are saving the current state of the repository. You can later return to that commit and access the saved version of each of your files. When you make changes locally, you will need to commit those changes and push them to the server so that they are saved globally.
+
+## I'm still confused
+Check out this awesome geeksforgeeks resource ([link](https://www.geeksforgeeks.org/git/git-introduction/)) for a great introduction to Git.
+
 # Cloning a Repository
 1. Visit the Repository webpage and copy the clone link by clicking the Code button and then the copy icon next to the web URL
 <img width="250" height="225" alt="image" src="https://github.com/user-attachments/assets/353d943d-4357-48af-b87b-ee5a09866aa5" />
