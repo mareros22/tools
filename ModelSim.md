@@ -6,10 +6,11 @@ Here's an alternative to using the LaunchModelSim file:
 3. Navigate to your project directory in the pop-up window and click 'OK'
 
 ## Running a Testbench
-- If you have a runlab.do file:
+### With a runlab.do file
   1. Find the Transcript window. If you can't find it, click View in the toolbar and select Transcript. 
-- If you do not have a runlab.do file:
+  2. Enter into the Transcript window `do <filename>`, where `filename` is the name of your runlab file
+### Without a runlab.do file
   1. Find the Library window. If you can't find it, click View in the toolbar and select Library.
-  2. Expand the "work" dropdown 
+  2. Expand the "work" dropdown
+     <img width="223" height="200" alt="image" src="https://github.com/user-attachments/assets/5662059a-511e-4295-acf7-b9ce9bacc409" />
   3. Double-click the testbench that you want to run
-
