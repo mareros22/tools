@@ -3,7 +3,8 @@
 layout: page
 title: "Git"
 permalink: /git
----# What??
+---
+# What??
 If you are not familiar with Git and you feel like everyone around you already knows what they are doing, that is totally normal. 
 
 ## What is a Repository?
