@@ -1,3 +1,8 @@
+---
+layout: page
+title: "GDB"
+permalink: /gdb
+---
 # Getting Started
 1. Start the debugger with `gdb <executable>`
 2. Configure layout and preferences
