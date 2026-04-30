@@ -1,6 +1,8 @@
+---
 layout: page
 title: "ModelSim"
 permalink: /modelsim
+---
 ## Getting Started
 There are several ways to launch ModelSim. Some courses provide you with a special file that you can store in your project folder, which is used to launch the application within the context of your project.
 Here's an alternative to using the LaunchModelSim file:
