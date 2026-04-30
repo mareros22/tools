@@ -1,0 +1,15 @@
+## Getting Started
+There are several ways to launch ModelSim. Some courses provide you with a special file that you can store in your project folder, which is used to launch the application within the context of your project.
+Here's an alternative to using the LaunchModelSim file:
+1. Open the ModelSim application by using a desktop shortcut or searching for the application on your machine
+2. Switch to your project directory by using the toolbar at the top of the screen: File>Change Directory...
+3. Navigate to your project directory in the pop-up window and click 'OK'
+
+## Running a Testbench
+- If you have a runlab.do file:
+  1. Find the Transcript window. If you can't find it, click View in the toolbar and select Transcript. 
+- If you do not have a runlab.do file:
+  1. Find the Library window. If you can't find it, click View in the toolbar and select Library.
+  2. Expand the "work" dropdown 
+  3. Double-click the testbench that you want to run
+
